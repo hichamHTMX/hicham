@@ -1,0 +1,97 @@
+body {
+    margin: 0;
+    font-family: "", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+.dev {
+    background-color: #0171f9;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 15px;
+}
+
+.links a {
+    color: white;
+    padding: 10px 40px;
+    text-decoration: none;
+    border-radius: 20px;
+}
+
+.links a:hover {
+    background-color: #2385fe;
+
+}
+
+.links button {
+    padding: 10px 40px;
+    background-color: #EE626B;
+    color: white;
+    border: none;
+    border-radius: 20px;
+}
+
+.links button:hover {
+    background-color: #ffa3aa;
+}
+.page {
+    border-radius: 0 0 50px 50px;
+    background-color: #0171f9;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    align-items: center;
+    padding: 80px 50px;
+}
+.page-search input{
+    border-radius: 50px;
+    border: none;
+    outline: none;
+    height: 35px;
+    padding: 0 10px;
+
+
+}
+.page-search button {
+    position: absolute;
+    left: 200px;
+    padding: 10px 40px;
+    background-color: #EE626B;
+    color: white;
+    border: none;
+    border-radius: 20px;
+}
+
+.btn {
+    padding: 10px 40px;
+    background-color: #EE626B;
+    color: white;
+    border: none;
+    border-radius: 20px;    
+}
+
+
+.btn:hover {
+    background-color: #ffa3aa;
+}
+.image-container img{
+    border-radius: 30px;
+    width: 300px;
+}
+.left-section {
+    width: 500px;
+}
+.cards {
+    width: 100px;
+}
+.info {
+    
+}
+
+
+
+
+
